@@ -11,7 +11,7 @@ const TopB = () => {
             <Animacao />
             </div>
             <div className=  " text-neutral-500 absolute right-5 pt-2 pb-3">
-            <p>#privacyaware</p>
+            <p className=" invisible md:visible">#privacyaware</p>
             </div>
         </div>
     );
