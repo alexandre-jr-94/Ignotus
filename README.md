@@ -1,7 +1,7 @@
 <h1> <b> Ignotus </b> </h1>
 
 
-Ignotus tem é um site que tem como objetivo falar sobre a privacidade na internet, além de aperfeiçoar meus conhecimentos na web.
+Ignotus é um site que tem como objetivo falar sobre a privacidade na internet, além de aperfeiçoar meus conhecimentos na web.
 ##
 Acesse o link abaixo para visualizar:
 https://ignotus.netlify.app/
