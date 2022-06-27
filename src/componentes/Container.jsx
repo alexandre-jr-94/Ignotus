@@ -126,7 +126,7 @@ const Fundo = () => {
                                 network.http.sendRefererHeader = 0 | <br/>
                                 network.prefetch-next = false | <br/>
                                 privacy.firstparty.isolate = true | <br/>
-                                privacy.resistFingerprinting = true | 
+                                privacy.resistFingerprinting = true | <br/>
                                 privacy.resistFingerprinting.letterboxing = true | <br/>
                                 privacy.trackingprotection.enabled = true | <br/>
                                 webgl.disabled =  true
