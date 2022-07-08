@@ -9,7 +9,6 @@ https://ignotus.netlify.app/
 
 O site consiste em se parecer com um chat anônimo onde o usuário busca entender melhor sobre a privacidade na internet utilizando o Mozilla.
 
-![img](https://cdn.discordapp.com/attachments/222437767865565195/988917377062297640/ignotus1.PNG)
 
 ##
 
